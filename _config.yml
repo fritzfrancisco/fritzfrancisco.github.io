@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Being Fritz Francisco"
+title                    : "Fritz Francisco"
 title_separator          : "-"
 name                     : &name "Fritz Francisco"
 description              : &description "personal description"
