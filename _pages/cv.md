@@ -11,8 +11,8 @@ redirect_from:
 
 born on 07.01.1989, Macomb, USA
 
-Bongern 2, 94094 Malching, Germany </br>
-Phone: (+49)175/4466282 </br>
+Bongern 2, 94094 Malching, Germany  
+Phone: (+49)175/4466282  
 E-mail: francisco.fritz@uni-konstanz.de
 
 
@@ -20,13 +20,13 @@ E-mail: francisco.fritz@uni-konstanz.de
 **Education:**
 
 10/2016 - present &nbsp; &nbsp; &nbsp; &nbsp; Max Planck Institute for Ornithology - Radolfzell, BW, DE
-Major: Biological Science (MSc.) </br>
+Major: Biological Science (MSc.)  
 10/2015 - 10/2016 &nbsp; &nbsp; &nbsp; &nbsp; Carl von Ossietzky University Oldenburg – Oldenburg, DE
-Major: Biology (MSc.) </br>
+Major: Biology (MSc.)  
 03/2014 - 08/2014 &nbsp; &nbsp; &nbsp; &nbsp; Boston University - Boston, MA, USA
-BSc. Senior Thesis Collaboration: J. Atema Lab </br>
+BSc. Senior Thesis Collaboration: J. Atema Lab  
 10/2011 - 10/2014 &nbsp; &nbsp; &nbsp; &nbsp; University of Konstanz - Konstanz, BW, DE
-Major: Biological Science (BSc.) </br>
+Major: Biological Science (BSc.)  
 07/2010 - 05/2011 &nbsp; &nbsp; &nbsp; &nbsp; Illinois State University - Bloomington, IL, USA
 Major: Biology (BSc.)
 Deans List 2010
@@ -34,35 +34,35 @@ Deans List 2010
 ---
 **Work Experience:**
 
-08/2017 – 11/2017 Field Work </br>
-A. Jordan Lab, Konstanz, DE </br>
+08/2017 – 11/2017 Field Work
+A. Jordan Lab, Konstanz, DE  
 Studying the collective behaviour of a Tanganyika cichlid ( _Lamprologus
 callipterus_ ) via SCUBA at Kasakalawe, Lake Tanganyika, ZM
 
-05/01/2017 - 27/01/2017 Field Work </br>
-I. Couzin Lab, Konstanz, DE </br>
+05/01/2017 - 27/01/2017 Field Work  
+I. Couzin Lab, Konstanz, DE  
 Assisting S. Gingins in scientific diving and data collection working
 on collective behaviour ( _Dascyllus marginatus)_ at IUI, Eilat, IL
 
-05/2015 - 09/2015 Marine Research Assistantship </br>
-P. Buston Lab, IZE Southwater Caye, BZ </br>
+05/2015 - 09/2015 Marine Research Assistantship  
+P. Buston Lab, IZE Southwater Caye, BZ  
 Laboratory maintenance, animal care and larval rearing ( _Elacatinus colini_ )
 
-03/2014 - 08/2014 Laboratory Work </br>
-J. Atema Lab, Boston, USA </br>
+03/2014 - 08/2014 Laboratory Work  
+J. Atema Lab, Boston, USA  
 Research study on reef fish ( _E. colini_ ) ecology, Animal care and larval
 rearing, daily maintenance of sea water system
 
-Seasonal 2009 - 2015 Landscape Gardener </br>
-H & W Bewässerungs GmbH, Steina, DE </br>
+Seasonal 2009 - 2015 Landscape Gardener  
+H & W Bewässerungs GmbH, Steina, DE  
 Setting up Indoor watering system, Constructing Indoor plant habitats
 Landscape construction and forestry work
 
-Seasonal 2009 - 2012 Beekeeper </br>
-APICON Apiary, Egglham, DE </br>
+Seasonal 2009 - 2012 Beekeeper  
+APICON Apiary, Egglham, DE  
 Maintaining beehives, Conducting the honey harvest
 
-11/2009 - 07/2010 Civil service </br>
+11/2009 - 07/2010 Civil service  
 District Hospital, Pfarrkirchen, DE
 
 ---
@@ -108,8 +108,8 @@ Further Qualifications:
 ---
 **Other Research Training:**
 
-10 - 11.12.2018   &nbsp; &nbsp; &nbsp; &nbsp;  DeepLabCut Workshop, Munich, Germany </br>
-25 - 27.07.2018   &nbsp; &nbsp; &nbsp; &nbsp;  Workshop on the Evolution of Social Complexity, Arolla, Switzerland </br>
+10 - 11.12.2018   &nbsp; &nbsp; &nbsp; &nbsp;  DeepLabCut Workshop, Munich, Germany  
+25 - 27.07.2018   &nbsp; &nbsp; &nbsp; &nbsp;  Workshop on the Evolution of Social Complexity, Arolla, Switzerland  
 15 - 21.07.2017   &nbsp; &nbsp; &nbsp; &nbsp;  Summer School LabEx Tulip, Integrative Biology & Ecology, Midi-Pyrénées, France
 
 ---
