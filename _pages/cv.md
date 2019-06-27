@@ -13,7 +13,7 @@ born on 07.01.1989, Macomb, USA
 
 Bongern 2, 94094 Malching, Germany  
 Phone: (+49)175/4466282  
-E-mail: francisco.fritz@uni-konstanz.de
+E-mail: <francisco.fritz@uni-konstanz.de>
 
 
 ---
@@ -84,26 +84,26 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Personal Qualifications:**
 
-Languages:
+###### Languages:
   - German (native)
   - English (native)
 
-Laboratory:
+###### Laboratory:
   - Excellent experience with quantitative
   - Behavioural experiments (fish)
   - Excellent experience with fish husbandry and animal care
 
-Programming:
+###### Programming:
   - Advanced programming skills in Python and LaTeX
   - Advanced experience with video analysis (OpenCV) and tracking
   - Good programming skills in C++, R and HTML
   - Moderate skills in agent-based modeling
   - Moderate experience with Arduino, Raspberry Pi and NodeMCU
 
-Further Qualifications:
+###### Further Qualifications:
   - Certified European Scientific Diver (KFT-ESD D-340)
   - AAUS Scientific Diver
-  - Dive log: ∑284, n=30 > 15m, n=10 > 25m
+  - Dive log: ∑299, n=49 > 15m, n=12 > 25m
   - German motorboat and sailing license (Bodensee Schifferpatent A&D)
 
 ---
