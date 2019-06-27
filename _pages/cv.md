@@ -12,10 +12,9 @@ redirect_from:
 born on 07.01.1989, Macomb, USA
 
 Bongern 2, 94094 Malching, Germany
-
 Phone: (+49)175/4466282 
-
 E-mail: francisco.fritz@uni-konstanz.de
+
 
 ---
 **Education:**
