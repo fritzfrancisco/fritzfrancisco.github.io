@@ -109,7 +109,7 @@ Further Qualifications:
 ---
 **Teaching:**
 
-21.06 – 01.0.19  &nbsp; &nbsp; Teaching assistant, Quatitative Field Biology Course, University of Konstanz </br>
+21.06 – 01.0.19  &nbsp; &nbsp; Teaching assistant, Quatitative Field Biology Course, University of Konstanz  
 21.06 – 01.0.18  &nbsp; &nbsp; Teaching assistant, Quatitative Field Biology Course, University of Konstanz
 
 ---
