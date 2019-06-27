@@ -115,10 +115,10 @@ Further Qualifications:
 ---
 **Academic conferences:**
 
-19/20.07.2018  &nbsp; &nbsp; &nbsp; &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany
+19/20.07.2018  &nbsp; &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany
 [Talk] Title: Understanding _Lamprologus callipterus_ as a dynamic natural network
 
-05.02.2017  &nbsp; &nbsp; &nbsp; &nbsp; Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany
+05.02.2017  &nbsp; &nbsp; Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany
 [Talk] Title: Exploring the rolling school behavior in the cichlid _L. callipterus_
 
 ---
