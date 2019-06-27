@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #""
   googlescholar    : #""
-  email            :
+  email            : "fritz.a.francisco@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Fritz_Francisco"
   uri              :
   bitbucket        :
