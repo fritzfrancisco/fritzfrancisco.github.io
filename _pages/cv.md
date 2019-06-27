@@ -11,104 +11,106 @@ redirect_from:
 
 born on 07.01.1989, Macomb, USA
 
-Bongern 2, 94094 Malching, Germany
-Phone: (+49)175/4466282 
+Bongern 2, 94094 Malching, Germany </br>
+Phone: (+49)175/4466282 </br>
 E-mail: francisco.fritz@uni-konstanz.de
 
 
 ---
 **Education:**
 
-10/2016 - present Max Planck Institute for Ornithology - Radolfzell, BW, DE
-Major: Biological Science (MSc.)
-
-10/2015 - 10/2016 Carl von Ossietzky University Oldenburg – Oldenburg, DE
-Major: Biology (MSc.)
-
-03/2014 - 08/2014 Boston University - Boston, MA, USA
-BSc. Senior Thesis Collaboration: J. Atema Lab
-
-10/2011 - 10/2014 University of Konstanz - Konstanz, BW, DE
-Major: Biological Science (BSc.)
-
-07/2010 - 05/2011 Illinois State University - Bloomington, IL, USA
+10/2016 - present &nbsp; &nbsp; &nbsp; &nbsp; Max Planck Institute for Ornithology - Radolfzell, BW, DE
+Major: Biological Science (MSc.) </br>
+10/2015 - 10/2016 &nbsp; &nbsp; &nbsp; &nbsp; Carl von Ossietzky University Oldenburg – Oldenburg, DE
+Major: Biology (MSc.) </br>
+03/2014 - 08/2014 &nbsp; &nbsp; &nbsp; &nbsp; Boston University - Boston, MA, USA
+BSc. Senior Thesis Collaboration: J. Atema Lab </br>
+10/2011 - 10/2014 &nbsp; &nbsp; &nbsp; &nbsp; University of Konstanz - Konstanz, BW, DE
+Major: Biological Science (BSc.) </br>
+07/2010 - 05/2011 &nbsp; &nbsp; &nbsp; &nbsp; Illinois State University - Bloomington, IL, USA
 Major: Biology (BSc.)
 Deans List 2010
 
 ---
 **Work Experience:**
 
-08/2017 – 11/2017 Field Work
-A. Jordan Lab, Konstanz, DE
+08/2017 – 11/2017 Field Work </br>
+A. Jordan Lab, Konstanz, DE </br>
 Studying the collective behaviour of a Tanganyika cichlid ( _Lamprologus
 callipterus_ ) via SCUBA at Kasakalawe, Lake Tanganyika, ZM
 
-05/01/2017 - 27/01/2017 Field Work
-I. Couzin Lab, Konstanz, DE
+05/01/2017 - 27/01/2017 Field Work </br>
+I. Couzin Lab, Konstanz, DE </br>
 Assisting S. Gingins in scientific diving and data collection working
 on collective behaviour ( _Dascyllus marginatus)_ at IUI, Eilat, IL
 
-05/2015 - 09/2015 Marine Research Assistantship
-P. Buston Lab, IZE Southwater Caye, BZ
+05/2015 - 09/2015 Marine Research Assistantship </br>
+P. Buston Lab, IZE Southwater Caye, BZ </br>
 Laboratory maintenance, animal care and larval rearing ( _Elacatinus colini_ )
 
-03/2014 - 08/2014 Laboratory Work
-J. Atema Lab, Boston, USA
+03/2014 - 08/2014 Laboratory Work </br>
+J. Atema Lab, Boston, USA </br>
 Research study on reef fish ( _E. colini_ ) ecology, Animal care and larval
 rearing, daily maintenance of sea water system
 
-Seasonal 2009 - 2015 Landscape Gardener
-H & W Bewässerungs GmbH, Steina, DE
+Seasonal 2009 - 2015 Landscape Gardener </br>
+H & W Bewässerungs GmbH, Steina, DE </br>
 Setting up Indoor watering system, Constructing Indoor plant habitats
 Landscape construction and forestry work
 
-Seasonal 2009 - 2012 Beekeeper
-APICON Apiary, Egglham, DE
+Seasonal 2009 - 2012 Beekeeper </br>
+APICON Apiary, Egglham, DE </br>
 Maintaining beehives, Conducting the honey harvest
 
-11/2009 - 07/2010 Civil service
+11/2009 - 07/2010 Civil service </br>
 District Hospital, Pfarrkirchen, DE
 
 ---
 **Personal Qualifications:**
 
-Languages: German (native); English (native)
+Languages:
+  - German (native)
+  - English (native)
 
-Laboratory: Excellent experience with quantitative, behavioural experiments (fish)
-Excellent experience with fish husbandry and animal care
+Laboratory:
+  - Excellent experience with quantitative
+  - Behavioural experiments (fish)
+  - Excellent experience with fish husbandry and animal care
 
-Programming: Advanced programming skills in Python and LaTeX
-Advanced experience with video analysis (OpenCV) and tracking
-Good programming skills in C++, R and HTML
-Moderate skills in agent-based modeling
-Moderate experience with Arduino, Raspberry Pi and NodeMCU
+Programming:
+  - Advanced programming skills in Python and LaTeX
+  - Advanced experience with video analysis (OpenCV) and tracking
+  - Good programming skills in C++, R and HTML
+  - Moderate skills in agent-based modeling
+  - Moderate experience with Arduino, Raspberry Pi and NodeMCU
 
-Further Qualifications: Certified European Scientific Diver (KFT-ESD D-340)
-AAUS Scientific Diver
-Dive log: ∑284, n=30 > 15m, n=10 > 25m
-German motorboat and sailing license (Bodensee Schifferpatent A&D)
+Further Qualifications:
+  - Certified European Scientific Diver (KFT-ESD D-340)
+  - AAUS Scientific Diver
+  - Dive log: ∑284, n=30 > 15m, n=10 > 25m
+  - German motorboat and sailing license (Bodensee Schifferpatent A&D)
 
 ---
 **Teaching:**
 
-21.06 – 01.0.19 Teaching assistant, Quatitative Field Biology Course, University of Konstanz
-21.06 – 01.0.18 Teaching assistant, Quatitative Field Biology Course, University of Konstanz
+21.06 – 01.0.19  &nbsp; &nbsp; &nbsp; &nbsp; Teaching assistant, Quatitative Field Biology Course, University of Konstanz </br>
+21.06 – 01.0.18  &nbsp; &nbsp; &nbsp; &nbsp; Teaching assistant, Quatitative Field Biology Course, University of Konstanz
 
 ---
 **Academic conferences:**
 
-19/20.07.2018 Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany
+19/20.07.2018  &nbsp; &nbsp; &nbsp; &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany
 [Talk] Title: Understanding _Lamprologus callipterus_ as a dynamic natural network
 
-05.02.2017 Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany
+05.02.2017  &nbsp; &nbsp; &nbsp; &nbsp; Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany
 [Talk] Title: Exploring the rolling school behavior in the cichlid _L. callipterus_
 
 ---
 **Other Research Training:**
 
-10 - 11.12.2018 DeepLabCut Workshop, Munich, Germany
-25 - 27.07.2018 Workshop on the Evolution of Social Complexity, Arolla, Switzerland
-15 - 21.07.2017 Summer School LabEx Tulip, Integrative Biology & Ecology, Midi-Pyrénées, France
+10 - 11.12.2018   &nbsp; &nbsp; &nbsp; &nbsp;  DeepLabCut Workshop, Munich, Germany </br>
+25 - 27.07.2018   &nbsp; &nbsp; &nbsp; &nbsp;  Workshop on the Evolution of Social Complexity, Arolla, Switzerland </br>
+15 - 21.07.2017   &nbsp; &nbsp; &nbsp; &nbsp;  Summer School LabEx Tulip, Integrative Biology & Ecology, Midi-Pyrénées, France
 
 ---
 **Publications:**
@@ -123,6 +125,3 @@ _483_ , 286-295.
 ---
 
 last updated 20.02.2019
-
-
-
