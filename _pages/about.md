@@ -12,5 +12,5 @@ Beginning my academic training in classical biology I transitioned through the f
 
 Personally my interests revolve around aquatic systems, as I have always been driven towards water and anything that may inhabit these intricate ecosystems. However, bridging across all natural systems are the complex interactions and mechanisms governing a single organism, groups of animals, or even our societies. I want to shed light on these underlying rules in order to add to a more holistic view on the world and what surrounds us. Learning from such complex systems we can potentially transfer this knowledge to various fields of research, ranging from artificial intelligence and optimization algorithms to socioeconomic implementations such as electoral outcomes and crowd control.
 
-<img src="images/signature.png"  align="middle" alt="hi" width="200" class="inline"/>
+<img src="images/signature.png"  align="right" alt="hi" width="200" class="inline"/>
 
