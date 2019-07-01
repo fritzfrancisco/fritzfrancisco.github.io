@@ -20,23 +20,23 @@ E-mail: <francisco.fritz@uni-konstanz.de>
 **Education:**
 
 10/2016 - present  
-Max Planck Institute for Ornithology - Radolfzell, BW, DE
+Max Planck Institute for Ornithology - Radolfzell, BW, DE  
 Major: Biological Science (MSc.)  
 
 10/2015 - 10/2016  
-Carl von Ossietzky University Oldenburg – Oldenburg, DE
+Carl von Ossietzky University Oldenburg – Oldenburg, DE  
 Major: Biology (MSc.)  
 
 03/2014 - 08/2014  
-Boston University - Boston, MA, USA
+Boston University - Boston, MA, USA  
 BSc. Senior Thesis Collaboration: J. Atema Lab  
 
 10/2011 - 10/2014  
-University of Konstanz - Konstanz, BW, DE
+University of Konstanz - Konstanz, BW, DE  
 Major: Biological Science (BSc.)  
 
 07/2010 - 05/2011  
-Illinois State University - Bloomington, IL, USA
+Illinois State University - Bloomington, IL, USA  
 Major: Biology (BSc.)  
 Deans List 2010
 
@@ -95,7 +95,7 @@ District Hospital, Pfarrkirchen, DE
 
 ###### Programming:
   - Advanced programming skills in Python and LaTeX
-  - Advanced experience with video analysis (OpenCV) and tracking
+  - Advanced experience with video analysis (OpenCV), image processing and animal tracking
   - Good programming skills in C++, R and HTML
   - Moderate skills in agent-based modeling
   - Moderate experience with Arduino, Raspberry Pi and NodeMCU
@@ -103,7 +103,7 @@ District Hospital, Pfarrkirchen, DE
 ###### Further Qualifications:
   - Certified European Scientific Diver (KFT-ESD D-340)
   - AAUS Scientific Diver
-  - Dive log: ∑299, n=49 > 15m, n=12 > 25m
+  - Dive log: ∑301, n=49 > 15m, n=12 > 25m
   - German motorboat and sailing license (Bodensee Schifferpatent A&D)
 
 ---
@@ -115,11 +115,11 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Academic conferences:**
 
-19/20.07.2018  &nbsp; &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany
-[Talk] Title: Understanding _Lamprologus callipterus_ as a dynamic natural network
+19/20.07.2018  &nbsp; &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Talk] Title: Understanding _Lamprologus callipterus_ as a dynamic natural network  
 
-05.02.2017  &nbsp; &nbsp; Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany
-[Talk] Title: Exploring the rolling school behavior in the cichlid _L. callipterus_
+05.02.2017  &nbsp; &nbsp; Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Talk] Title: Exploring the rolling school behavior in the cichlid _L. callipterus_
 
 ---
 **Other Research Training:**
@@ -127,6 +127,13 @@ District Hospital, Pfarrkirchen, DE
 10 - 11.12.2018   &nbsp; &nbsp; DeepLabCut Workshop, Munich, Germany  
 25 - 27.07.2018   &nbsp; &nbsp; Workshop on the Evolution of Social Complexity, Arolla, Switzerland  
 15 - 21.07.2017   &nbsp; &nbsp; Summer School LabEx Tulip, Integrative Biology & Ecology, Midi-Pyrénées, France
+
+---
+**Outreach:**
+
+2017   &nbsp; &nbsp; *Lange Nacht der Wissenschaft* - Public science outreach event  
+       &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; Volunteer  
+       &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  Kostanz, Germamy
 
 ---
 **Publications:**
