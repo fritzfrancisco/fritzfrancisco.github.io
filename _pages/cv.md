@@ -115,11 +115,11 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Academic conferences:**
 
-19/20.07.2018  &nbsp; &nbsp;  &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Talk] Title: Understanding _Lamprologus callipterus_ as a dynamic natural network  
+19/20.07.2018 &nbsp; &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany  
+[Talk] Title: Understanding _Lamprologus callipterus_ as a dynamic natural network  
 
-05.02.2017  &nbsp; &nbsp;  &nbsp; Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Talk] Title: Exploring the rolling school behavior in the cichlid _L. callipterus_
+05.02.2017  &nbsp; &nbsp; Symposium on Lake Tanganyikan cichlid behaviour, Konstanz, Germany  
+[Talk] Title: Exploring the rolling school behavior in the cichlid _L. callipterus_
 
 ---
 **Other Research Training:**
@@ -131,9 +131,7 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Outreach:**
 
-2017   &nbsp; &nbsp; *Lange Nacht der Wissenschaft* - Public science outreach event  
-       &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;Volunteer  
-       &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;Kostanz, Germamy
+2017   &nbsp; &nbsp; *Lange Nacht der Wissenschaft* - Public science outreach event, Volunteer, Kostanz, Germamy
 
 ---
 **Publications:**
