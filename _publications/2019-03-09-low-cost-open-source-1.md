@@ -14,9 +14,3 @@ Introducing a low-cost, open source method for visually tracking wild animals in
 [Download paper here](http://academicpages.github.io/files/open_tracking.pdf)
 
 
-Francisco, F. A. & Nührenberg, P., Jordan, L. A. (2019). Low-cost, open-source solutions for animal
-tracking in aquatic ecosystems. _in preparation_
-
-Majoris, J. E., Francisco, F. A., Atema, J., & Buston, P. M. (2018). Reproduction, early development, and
-larval rearing strategies for two sponge-dwelling neon gobies, Elacatinus lori and E. colini. _Aquaculture_ ,
-_483_ , 286-295.
