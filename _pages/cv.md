@@ -89,8 +89,7 @@ District Hospital, Pfarrkirchen, DE
   - English (native)
 
 ###### Laboratory:
-  - Excellent experience with quantitative
-  - Behavioural experiments (fish)
+  - Excellent experience with quantitative behavioural experiments (fish)
   - Excellent experience with fish husbandry and animal care
 
 ###### Programming:
