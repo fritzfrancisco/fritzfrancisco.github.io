@@ -11,7 +11,7 @@ redirect_from:
 
 born on 07.01.1989, Macomb, USA
 
-E-mail: <francisco.fritz[at]uni-konstanz.de>
+E-mail: francisco.fritz[at]uni-konstanz.de
 
 
 ---
@@ -149,4 +149,4 @@ _483_ , 286-295.
 
 ---
 
-last updated 20.02.2019
+last updated 11.09.2019
