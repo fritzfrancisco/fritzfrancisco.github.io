@@ -11,15 +11,17 @@ redirect_from:
 
 born on 07.01.1989, Macomb, USA
 
-Bongern 2, 94094 Malching, Germany  
-Phone: (+49)175/4466282  
-E-mail: <francisco.fritz@uni-konstanz.de>
+E-mail: <francisco.fritz[at]uni-konstanz.de>
 
 
 ---
 **Education:**
 
-10/2016 - present  
+09/2019 - present  
+Science of Inteligence Cluster, Humbold University - Berlin, B, DE  
+PhD Candidate
+
+10/2016 - 09/2019  
 Max Planck Institute for Ornithology - Radolfzell, BW, DE  
 Major: Biological Science (MSc.)  
 
