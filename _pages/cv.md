@@ -116,7 +116,7 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Academic conferences:**
 
-26-28.08.2019 &nbsp; &nbsp; ASAB Summer Conference, Konstanz, Germany
+26-28.08.2019 &nbsp; &nbsp; ASAB Summer Conference, Konstanz, Germany  
 [Poster] Title: A low-cost, open-source framework for tracking animals in aquatic ecosystems
 
 19/20.07.2018 &nbsp; &nbsp; Alpine Tanganyikan Cichlid Symposium, Konstanz, Germany  
