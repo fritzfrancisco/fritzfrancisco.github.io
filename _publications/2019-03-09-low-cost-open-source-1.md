@@ -2,7 +2,7 @@
 title: "Low-cost, open-source solutions for animal tracking in aquatic ecosystems"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Introducing a low-cost, open source method for visually tracking wild animals in 3D.'
+excerpt: ''
 date: 2019-03-09
 venue: 'in preparation'
 paperurl: 'http://fritzfrancisco.github.io/files/open_tracking.pdf'
