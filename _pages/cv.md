@@ -23,7 +23,7 @@ PhD Candidate
 
 10/2016 - 09/2019  
 Max Planck Institute for Ornithology - Radolfzell, BW, DE  
-Major: Biological Science (MSc.)  
+Major: Biological Science (MSc., 1.3)  
 
 10/2015 - 10/2016  
 Carl von Ossietzky University Oldenburg – Oldenburg, DE  
@@ -35,7 +35,7 @@ BSc. Senior Thesis Collaboration: J. Atema Lab
 
 10/2011 - 10/2014  
 University of Konstanz - Konstanz, BW, DE  
-Major: Biological Science (BSc.)  
+Major: Biological Science (BSc., 2.4)  
 
 07/2010 - 05/2011  
 Illinois State University - Bloomington, IL, USA  
