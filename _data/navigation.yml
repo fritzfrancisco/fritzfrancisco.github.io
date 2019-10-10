@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Wiki"
-    url: /wiki/work_wiki.html
-
 #  - title: "Talks"
 #    url: /talks/    
 
@@ -20,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Wiki"
+    url: /wiki/
 
 #   - title: "Guide"
 #     url: /markdown/
