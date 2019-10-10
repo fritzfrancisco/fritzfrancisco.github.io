@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "Wiki"
+permalink: /wiki/
+---
+
+{% include base_path %}
+
+{% for post in site.wiki reversed %}
+  {% include archive-single.html %}
+{% endfor %}
