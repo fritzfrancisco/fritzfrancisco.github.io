@@ -6,5 +6,7 @@ permalink: /wiki/
 
 {% include base_path %}
 
-{% include work_wiki.html %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
