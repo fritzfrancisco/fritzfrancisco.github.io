@@ -116,6 +116,9 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Academic conferences:**
 
+07-10.11.2019 &nbsp; &nbsp; GfI Conference, Bonn, Germany  
+[Talk] Title: A low-cost, open-source framework for tracking animals in aquatic ecosystems
+
 26-28.08.2019 &nbsp; &nbsp; ASAB Summer Conference, Konstanz, Germany  
 [Poster] Title: A low-cost, open-source framework for tracking animals in aquatic ecosystems
 
