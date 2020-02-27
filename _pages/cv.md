@@ -143,8 +143,7 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Publications:**
 
-Francisco, F. A. & Nührenberg, P., Jordan, L. A. (2019). Low-cost, open-source solutions for animal
-tracking in aquatic ecosystems. _in preparation_
+Francisco, F. A. & Nührenberg, P., Jordan, L. A. (2020). High-resolution animal tracking with integration ofenvironmental information in aquatic systems. _in preparation_
 
 Majoris, J. E., Francisco, F. A., Atema, J., & Buston, P. M. (2018). Reproduction, early development, and
 larval rearing strategies for two sponge-dwelling neon gobies, Elacatinus lori and E. colini. _Aquaculture_ ,
@@ -152,4 +151,4 @@ _483_ , 286-295.
 
 ---
 
-last updated 11.09.2019
+last updated 26.02.2020
