@@ -200,7 +200,7 @@ defaults:
       layout: single
       author_profile: true  
       header:
-          image: /assets/images/image-filename.jpg
+          image: /assets/images/background.jpg
 
   # _posts
   - scope:
