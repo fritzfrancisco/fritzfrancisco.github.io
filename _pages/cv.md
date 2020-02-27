@@ -11,7 +11,7 @@ redirect_from:
 
 born on 07.01.1989, Macomb, USA
 
-E-mail: francisco.fritz[at]hu-berlin.de
+E-mail: fritz.francisco[at]hu-berlin.de
 
 
 ---
