@@ -1,5 +1,5 @@
 ---
-title: "High-resolution animal tracking with integration ofenvironmental information in aquatic systems"
+title: "High-resolution animal tracking with integration of environmental information in aquatic systems"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
