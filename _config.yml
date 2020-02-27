@@ -191,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  #about section background image
-  # _about
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true  
-      header:
-          image: /assets/images/background.jpg
-
   # _posts
   - scope:
       path: ""
