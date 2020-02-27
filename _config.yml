@@ -49,11 +49,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-
-# Background Image
-header:
-  image: /assets/images/background.jpg
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -196,6 +191,17 @@ collections:
 
 # Defaults
 defaults:
+  #about section background image
+  # _about
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true  
+      header:
+          image: /assets/images/image-filename.jpg
+
   # _posts
   - scope:
       path: ""
