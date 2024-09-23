@@ -11,15 +11,19 @@ redirect_from:
 
 born on 07.01.1989, Macomb, USA
 
-E-mail: fritz.francisco[at]hu-berlin.de
+E-mail: fritz.francisco[at]umb.edu
 
 
 ---
 **Education:**
 
-09/2019 - present  
+03/2023 - present  
+University of Massachusetts, Boston, USA  
+Post-doc
+
+09/2019 - 07/2023  
 Science of Inteligence Cluster, Humbold University - Berlin, B, DE  
-PhD Candidate
+PhD (*Magna cum laude*)
 
 10/2016 - 09/2019  
 Max Planck Institute for Ornithology - Radolfzell, BW, DE  
@@ -40,7 +44,6 @@ Major: Biological Science (BSc., 2.4)
 07/2010 - 05/2011  
 Illinois State University - Bloomington, IL, USA  
 Major: Biology (BSc.)  
-Deans List 2010
 
 ---
 **Work Experience:**
@@ -116,6 +119,15 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Academic conferences:**
 
+17-20.11.2022  &nbsp; &nbsp; GfI Conference, Vienna, Austria  
+[Talk] Title: Experienced social partners hinder learning performance in naive clonal fish
+
+03-05.10.2022 Poeciliid Conference, Wageningen, Netherlands  
+[Poster] Title: Collective jumping behaviour in the Amazon molly (Poecilia formosa)
+
+02-04.12.2021 &nbsp; &nbsp; GfI Conference, Bonn, Germany  
+[Talk] Title: Social Learning and Individual Differences in Learning Performance in the Clonal Amazon Molly (Poecilia formosa)
+
 07-10.11.2019 &nbsp; &nbsp; GfI Conference, Bonn, Germany  
 [Talk] Title: A low-cost, open-source framework for tracking animals in aquatic ecosystems
 
@@ -131,9 +143,13 @@ District Hospital, Pfarrkirchen, DE
 ---
 **Other Research Training:**
 
-10 - 11.12.2018   &nbsp; &nbsp; DeepLabCut Workshop, Munich, Germany  
-25 - 27.07.2018   &nbsp; &nbsp; Workshop on the Evolution of Social Complexity, Arolla, Switzerland  
-15 - 21.07.2017   &nbsp; &nbsp; Summer School LabEx Tulip, Integrative Biology & Ecology, Midi-Pyrénées, France
+01 - 14.07.2022   &nbsp; &nbsp; &nbsp; &nbsp; DINACON, DreamSpace Academy, Batticaloa, Sri Lanka  
+22.05 - 11.06.2022 &nbsp; CAJAL Summer School on Quantitative Approaches to Behaviour, Champalimaud, Lisbon, Portugal  
+02 - 03.10.2021   &nbsp; &nbsp; &nbsp; &nbsp; Complex Networks and Collective Information Processing Workshop, Humboldt University, Berlin, Germany  
+30.04.2020      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Physics of Behavior Workshop (Virtual), TMLS, Emory University, USA  
+10 - 11.12.2018   &nbsp; &nbsp; &nbsp; &nbsp; DeepLabCut Workshop, Munich, Germany  
+25 - 27.07.2018   &nbsp; &nbsp; &nbsp; &nbsp; Workshop on the Evolution of Social Complexity, Arolla, Switzerland  
+15 - 21.07.2017   &nbsp; &nbsp; &nbsp; &nbsp; Summer School LabEx Tulip, Integrative Biology & Ecology, Midi-Pyrénées, France
 
 ---
 **Outreach:**
@@ -141,9 +157,23 @@ District Hospital, Pfarrkirchen, DE
 2017   &nbsp; &nbsp; *Lange Nacht der Wissenschaft* - Public science outreach event, Volunteer, Kostanz, Germamy
 
 ---
-**Publications:**
+**Awards, Grants & Fellowships**
 
-Francisco, F. A. & Nührenberg, P., Jordan, L. A. (2020). High-resolution animal tracking with integration ofenvironmental information in aquatic systems. _in preparation_
+2024 Joseph P. Healey Research Grant, University of Massachusetts Boston (10.000\$)  
+2010 Deans List
+
+---
+**Selected Publications:**
+
+Ehlman, S. M., Scherer, U., Bierbach, D., Francisco, F. A., Laskowski, K. L., Krause, J., & Wolf, M. (2023). Leveraging big data to uncover the eco-evolutionary factors shaping behavioural development. _Proceedings of the Royal Society B_, 290(1992), 20222115.
+
+Majoris, J. E., Francisco, F. A., Burns, C. M., Brandl, S. J., Warkentin, K. M., & Buston, P. M. (2022). Paternal care regulates the timing, synchrony and success of hatching in a coral reef fish. _Proceedings of the Royal Society B_, 289(1982), 20221466.
+
+Bierbach, D., Gómez-Nava, L., Francisco, F. A., Lukas, J., Musiolek, L., Hafner, V. V., ... & Krause, J. (2022). Live fish learn to anticipate the movement of a fish-like robot. _Bioinspiration & Biomimetics_, 17(6), 065007.
+
+Rodriguez-Santiago, M., Nührenberg, P., Derry, J., Deussen, O., Francisco, F. A., Garrison, L. K., ... & Jordan, A. (2020). Behavioral traits that define social dominance are the same that reduce social influence in a consensus task. _Proceedings of the National Academy of Sciences_, 117(31), 18566-18573.
+
+Francisco, F. A., Nührenberg, P., & Jordan, A. (2020). High-resolution, non-invasive animal tracking and reconstruction of local environment in aquatic ecosystems. _Movement ecology_, 8, 1-12.
 
 Majoris, J. E., Francisco, F. A., Atema, J., & Buston, P. M. (2018). Reproduction, early development, and
 larval rearing strategies for two sponge-dwelling neon gobies, Elacatinus lori and E. colini. _Aquaculture_ ,
@@ -151,4 +181,4 @@ _483_ , 286-295.
 
 ---
 
-last updated 26.02.2020
+last updated 22.09.2024
