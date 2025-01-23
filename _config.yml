@@ -57,7 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
+bluesky:
+  username               : &bluesky
 facebook:
   username               :
   app_id                 :
@@ -82,12 +84,12 @@ analytics:
 author:
   name             : "Fritz Francisco"
   avatar           : "fritz.jpeg"
-  bio              : "A curious fish biologist, musician and naturalist <br><br> PhD candidate <br> Humbold University <br> Science of Intelligence"
-  location         : "Berlin, B, Germany"
-  employer         : "Humbold University, Berlin"
+  bio              : "A curious fish biologist, musician and naturalist <br><br> Postdoc <br> UMass Boston"
+  location         : "Boston, MA, USA"
+  employer         : "University of Massachusetts Boston"
   pubmed           : #""
   googlescholar    : #""
-  email            : "fritz.francisco@hu-berlin.de"
+  email            : "fritz.francisco@umb.edu"
   researchgate     : "https://www.researchgate.net/profile/Fritz_Francisco"
   uri              :
   bitbucket        :
