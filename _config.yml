@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fritz Francisco"
 title_separator          : "-"
 name                     : &name "Fritz Francisco"
-description              : &description "PhD Candidate"
+description              : &description "Postdoctoral Researcher"
 url                      : https://fritzfrancisco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fritzfrancisco/fritzfrancsico.github.io"
@@ -109,12 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "fritzafrancisco"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "https://bsky.app/profile/fritzfrancisco.bsky.social"
 
 
 # Reading Files
